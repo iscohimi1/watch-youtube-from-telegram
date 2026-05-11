@@ -12,7 +12,7 @@ from telegram.ext import (
 import yt_dlp
 
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
-BOT_TOKEN   = "YOUR_BOT_TOKEN_HERE"   # <- paste your token
+BOT_TOKEN   = "8658244806:AAEXiOFRb4Jnnsp2KYOlRuFlAfWVwj8LWio"   # <- paste your token
 DOWNLOAD_DIR = Path("downloads")
 MAX_PART_MB  = 45                      # Telegram limit is 50 MB; stay safe
 MAX_PART_B   = MAX_PART_MB * 1024 * 1024
